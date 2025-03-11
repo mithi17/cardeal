@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "brand": "Tesla",
+      "rating": 120,
+      "carName": "Tesla Model S",
+      "profileImage": [
+        { "image": "https://example.com/tesla-model-s.jpg" }
+      ],
+      "model": "Model S",
+      "price": 80,
+      "speed": "25kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Leather seats",
+      "automatic": "Automatic",
+      "description": "A high-performance electric car with autopilot features and a luxurious interior."
+    },
+    {
+      "id": 2,
+      "brand": "BMW",
+      "rating": 105,
+      "carName": "BMW X5",
+      "profileImage": [
+        { "image": "https://example.com/bmw-x5.jpg" }
+      ],
+      "model": "X5",
+      "price": 75,
+      "speed": "18kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Heated seats",
+      "automatic": "Automatic",
+      "description": "A premium SUV offering comfort, power, and cutting-edge technology."
+    },
+    {
+      "id": 3,
+      "brand": "Mercedes",
+      "rating": 110,
+      "carName": "Mercedes-Benz C-Class",
+      "profileImage": [
+        { "image": "https://example.com/mercedes-c-class.jpg" }
+      ],
+      "model": "C-Class",
+      "price": 70,
+      "speed": "22kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Ventilated seats",
+      "automatic": "Automatic",
+      "description": "A stylish and comfortable sedan with advanced safety features."
+    },
+    {
+      "id": 4,
+      "brand": "Audi",
+      "rating": 115,
+      "carName": "Audi Q7",
+      "profileImage": [
+        { "image": "https://example.com/audi-q7.jpg" }
+      ],
+      "model": "Q7",
+      "price": 85,
+      "speed": "19kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Massage seats",
+      "automatic": "Automatic",
+      "description": "A luxury SUV offering a powerful engine and spacious interior."
+    },
+    {
+      "id": 5,
+      "brand": "Toyota",
+      "rating": 100,
+      "carName": "Toyota Corolla",
+      "profileImage": [
+        { "image": "https://example.com/toyota-corolla.jpg" }
+      ],
+      "model": "Corolla",
+      "price": 40,
+      "speed": "23kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Fabric seats",
+      "automatic": "Automatic",
+      "description": "A reliable and fuel-efficient sedan ideal for daily commuting."
+    },
+    {
+      "id": 6,
+      "brand": "Ford",
+      "rating": 98,
+      "carName": "Ford Mustang",
+      "profileImage": [
+        { "image": "https://example.com/ford-mustang.jpg" }
+      ],
+      "model": "Mustang",
+      "price": 90,
+      "speed": "15kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Sports seats",
+      "automatic": "Manual",
+      "description": "A classic muscle car with impressive power and design."
+    },
+    {
+      "id": 7,
+      "brand": "Chevrolet",
+      "rating": 102,
+      "carName": "Chevrolet Camaro",
+      "profileImage": [
+        { "image": "https://example.com/chevrolet-camaro.jpg" }
+      ],
+      "model": "Camaro",
+      "price": 85,
+      "speed": "16kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Performance seats",
+      "automatic": "Automatic",
+      "description": "An iconic American sports car with a bold look and powerful engine."
+    },
+    {
+      "id": 8,
+      "brand": "Hyundai",
+      "rating": 95,
+      "carName": "Hyundai Tucson",
+      "profileImage": [
+        { "image": "https://example.com/hyundai-tucson.jpg" }
+      ],
+      "model": "Tucson",
+      "price": 55,
+      "speed": "21kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Heated seats",
+      "automatic": "Automatic",
+      "description": "A compact SUV offering great fuel economy and modern features."
+    },
+    {
+      "id": 9,
+      "brand": "Honda",
+      "rating": 112,
+      "carName": "Honda Civic",
+      "profileImage": [
+        { "image": "https://example.com/honda-civic.jpg" }
+      ],
+      "model": "Civic",
+      "price": 50,
+      "speed": "20kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Heated seats",
+      "automatic": "Automatic",
+      "description": "A stylish and reliable sedan with great fuel efficiency."
+    },
+    {
+      "id": 10,
+      "brand": "Nissan",
+      "rating": 97,
+      "carName": "Nissan Altima",
+      "profileImage": [
+        { "image": "https://example.com/nissan-altima.jpg" }
+      ],
+      "model": "Altima",
+      "price": 45,
+      "speed": "22kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Comfort seats",
+      "automatic": "Automatic",
+      "description": "A well-rounded midsize sedan with a smooth ride and good fuel economy."
+    }
+  ]
+  
